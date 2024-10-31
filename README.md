@@ -1,5 +1,5 @@
 # course-registration
-This README document that provides step-by-step instructions on setting up your course registration application using XAMPP and importing the SQL file to create tables with pre-enrolled students.
+This README document provides step-by-step instructions on setting up your course registration application using XAMPP and importing the SQL file to create tables with pre-enrolled students.
 This repository contains a PHP-based course registration application that allows students to enroll in courses. It is designed to run on a local server environment, using XAMPP to manage the server and database.
 Before you begin, ensure you have the following installed: XAMPP https://www.apachefriends.org/index.html 
 
